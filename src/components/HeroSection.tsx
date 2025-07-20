@@ -81,7 +81,7 @@ const HeroSection = ({ logoUrl, setLogoUrl }: HeroSectionProps) => {
       <div className="space-y-8 lg:space-y-12">
         {/* Main Title - More Refined */}
         <div className="relative">
-          <h1 className="font-inter font-black text-5xl md:text-7xl lg:text-8xl xl:text-9xl leading-[0.88] tracking-tight">
+          <h1 className="font-inter font-black text-4xl md:text-5xl lg:text-6xl xl:text-7xl leading-[0.88] tracking-tight">
             <span className="inline-block bg-gradient-to-r from-ridwan-green via-ridwan-green/96 to-digital-gold bg-clip-text text-transparent animate-fade-in-up relative group">
               Ridwanullah
               <div className="absolute -inset-6 bg-gradient-to-r from-ridwan-green/5 via-transparent to-digital-gold/5 blur-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-1000 rounded-full"></div>
